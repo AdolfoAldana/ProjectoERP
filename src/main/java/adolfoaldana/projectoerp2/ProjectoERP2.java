@@ -12,6 +12,6 @@ public class ProjectoERP2 {
 
     public static void main(String[] args) {
         System.out.println("Hola Pancho");
-        System.out.println("Pedro");
+        System.out.println("Jose Jose");
     }
 }
